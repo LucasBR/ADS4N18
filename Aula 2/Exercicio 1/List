@@ -1,0 +1,170 @@
+public class _nodo
+{
+    public int data;
+    public int index;
+}
+
+public class elementList
+{
+    public int data;
+    public elementList next;
+}
+
+package <missing>;
+
+public class GlobalMembers
+{
+    public static final int width = 1000000;
+
+    public static _nodo[] vetor = tangible.Arrays.initializeWithDefault_nodoInstances(width);
+
+    public static void run_vetor()
+    {
+        clock_t[] time_elapsed = tangible.Arrays.initializeWithDefaultclock_tInstances(2);
+        time_elapsed[0] = clock();
+
+        for (int i = 0; i < width; i++)
+        {
+            vetor[i].data = tangible.RandomNumbers.nextNumber() % width + 1;
+            vetor[i].index = i;
+        }
+        time_elapsed[1] = clock();
+
+        double final_time = (time_elapsed[1] - time_elapsed[0]) * 1000.0 / CLOCKS_PER_SEC;
+
+        System.out.printf("\n\nTempo gasto para inserir 1 milh�o de itens em um vetor: %g ms.", final_time);
+    }
+    public static void run_list()
+    {
+        elementList pList;
+        clock_t[] time_elapsed = tangible.Arrays.initializeWithDefaultclock_tInstances(2);
+
+        void init_list(elementList * *pElement);
+        void insert_element(elementList * *pRecebido);
+        void show_elements(elementList * *pRecebido);
+
+        time_elapsed[0] = clock();
+
+        pList = new elementList();
+        init_list(pList);
+
+        for (int i = 0; i < width; i++)
+        {
+            insert_element(pList);
+        }
+
+        time_elapsed[1] = clock();
+        double total = (time_elapsed[1] - time_elapsed[0]) * 1000.0 / CLOCKS_PER_SEC;
+
+        System.out.printf("\n\nTempo gasto para inserir 1 milh�o de itens em uma lista encadeada: %g ms.", total);
+
+        System.in.read();
+    }
+
+    public static int Main()
+    {
+        run_vetor();
+        run_list();
+    }
+
+    public static void show_items()
+    {
+        for (int i = 0; i < width; i++)
+        {
+            System.out.printf("Valor : %d\n", vetor[i].data);
+        }
+    }
+    public static void init_list(elementList[] pElement)
+    {
+        pElement.next = null;
+    }
+    public static void insert_element(elementList[] pElement)
+    {
+        elementList temp = new elementList();
+        temp.data = tangible.RandomNumbers.nextNumber() % width + 1;
+        temp.next = pElement.next;
+        pElement.next = temp;
+    }
+    public static void show_elements(elementList[] pElement)
+    {
+        elementList temp;
+        if (pElement.next == null)
+        {
+            System.out.print("A lista est� vazia");
+        }
+        else
+        {
+            temp = new elementList();
+            temp = pElement.next;
+            while (temp != null)
+            {
+                System.out.printf("Valor : %d\n", temp.data);
+                temp = temp.next;
+            }
+        }
+    }
+}
+
+
+public final class Arrays
+{
+    public static _nodo[] initializeWithDefault_nodoInstances(int length)
+    {
+        _nodo[] array = new _nodo[length];
+        for (int i = 0; i < length; i++)
+        {
+            array[i] = new _nodo();
+        }
+        return array;
+    }
+
+    public static clock_t[] initializeWithDefaultclock_tInstances(int length)
+    {
+        clock_t[] array = new clock_t[length];
+        for (int i = 0; i < length; i++)
+        {
+            array[i] = new clock_t();
+        }
+        return array;
+    }
+
+    public static <T extends java.io.Closeable> void deleteArray(T[] array)
+    {
+        for (T element : array)
+        {
+            if (element != null)
+                element.close();
+        }
+    }
+}
+
+public final class RandomNumbers
+{
+    private static java.util.Random r;
+
+    public static int nextNumber()
+    {
+        if (r == null)
+            Seed();
+
+        return r.nextInt();
+    }
+
+    public static int nextNumber(int ceiling)
+    {
+        if (r == null)
+            Seed();
+
+        return r.nextInt(ceiling);
+    }
+
+    public static void seed()
+    {
+        r = new java.util.Random();
+    }
+
+    public static void seed(int seed)
+    {
+        r = new java.util.Random(seed);
+    }
+}
