@@ -5,8 +5,6 @@ public class Hanoi {
             executar(numberOfDisks - 1, a, c, b);
             System.out.println("Mova o disco "+numberOfDisks+" da " + a + " para a " + c + "!");
             executar(numberOfDisks - 1, b, a, c);
-
         }
     }
-
 }

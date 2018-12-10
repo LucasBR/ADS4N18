@@ -1,6 +1,6 @@
 import java.util.Comparator;
 
-public class BubbleSort<T> {
+public class BubbleSortImp<T> {
 
     public void sort(T[] objects, Comparator<T> comparator){
         for (int i = 0; i < objects.length; i++) {

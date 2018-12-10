@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d15caa3-3533-42f4-b655-45b2b83cc9f7" name="Default Changelist" comment="" />
+    <list default="true" id="0d15caa3-3533-42f4-b655-45b2b83cc9f7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/APIII.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/APIII.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 4/Exercicio 4/MDC.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 4/Exercicio 4/MDC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 4/Exercicio 5/Hanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 4/Exercicio 5/Hanoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 4/Exercicio 5/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 4/Exercicio 5/Programa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 5/Exercicio 1/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 5/Exercicio 1/BubbleSortImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula 5/Exercicio 2/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 5/Exercicio 2/Program.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,55 +30,128 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="List" value="1" />
-          <entry key="Lista" value="1" />
+          <entry key="Lista" value="2" />
+          <entry key="MedidorTempo" value="1" />
+          <entry key="groovy" value="1" />
+          <entry key="java" value="32" />
+          <entry key="py" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="Groovy" value="1" />
+          <entry key="JAVA" value="36" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="List" value="4" />
+          <entry key="dummy" value="12" />
+          <entry key="java" value="183" />
+          <entry key="txt" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="187" />
+          <entry key="PLAIN_TEXT" value="37" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Aula 2/Exercicio 1/Lista">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aula 5/Exercicio 2/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Aula 2/Exercicio 1/List">
+        <entry file="file://$PROJECT_DIR$/Aula 5/Exercicio 2/Program.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="150" column="5" selection-start-line="150" selection-start-column="5" selection-end-line="150" selection-end-column="5" />
-              <folding>
-                <element signature="e#2014#2015#0" expanded="true" />
-                <element signature="e#2050#2051#0" expanded="true" />
-                <element signature="e#5042#5043#0" expanded="true" />
-                <element signature="e#5084#5085#0" expanded="true" />
-                <element signature="e#5129#5130#0" expanded="true" />
-                <element signature="e#5175#5176#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="391">
+              <caret line="23" column="53" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aula 4/Exercicio 1/ILinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aula 4/Exercicio 1/LinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Aula 2/Exercicio 2/IBuffer.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aula 2/Exercicio 2/RingBuffer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="20" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aula 5/Exercicio 2/BubbleSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aula 5/Exercicio 1/BubbleSortImp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aula 2/Exercicio 1/IList.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aula 2/Exercicio 1/Element.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -75,17 +159,26 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/APIII" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Aula 1/Exercicio 1/List" />
         <option value="$PROJECT_DIR$/Aula 2/Exercicio 1/Lista" />
+        <option value="$PROJECT_DIR$/Aula 1/Exercicio/MedidorTempo" />
+        <option value="$PROJECT_DIR$/Aula 4/Exercicio 4/TCD.java" />
+        <option value="$PROJECT_DIR$/Aula 4/Exercicio 5/Program.kt" />
+        <option value="$PROJECT_DIR$/Aula 4/Exercicio 5/Program.java" />
+        <option value="$PROJECT_DIR$/Aula 4/Exercicio 5/Programa.java" />
+        <option value="$PROJECT_DIR$/Aula 4/Exercicio 5/Hanoi.java" />
+        <option value="$PROJECT_DIR$/Aula 4/Exercicio 4/MDC.java" />
+        <option value="$PROJECT_DIR$/Aula 5/Exercicio 1/BubbleSortImp.java" />
+        <option value="$PROJECT_DIR$/Aula 5/Exercicio 2/Program.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -109,11 +202,6 @@
             <path>
               <item name="APIII" type="b2602c69:ProjectViewProjectNode" />
               <item name="APIII" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="APIII" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APIII" type="462c0819:PsiDirectoryNode" />
               <item name="Aula 2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -122,6 +210,64 @@
               <item name="Aula 2" type="462c0819:PsiDirectoryNode" />
               <item name="Exercicio 1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="APIII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APIII" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercicio 2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APIII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APIII" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercicio 3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APIII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APIII" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercicio 4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APIII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APIII" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula 4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APIII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APIII" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula 4" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercicio 1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APIII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APIII" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula 4" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercicio 4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APIII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APIII" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula 4" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercicio 5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APIII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APIII" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula 5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APIII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APIII" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula 5" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercicio 1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APIII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APIII" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula 5" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercicio 2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -129,13 +275,34 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544379277774" />
+    <property name="ChangesTree.GroupingKeys" value="module" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544400139310" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/Aula 4/Exercicio 5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Exercicio 5" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Exercicio 5" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Toru\Desktop\APIII\Aula 2" />
+      <recent name="C:\Users\Toru\Desktop\APIII\Aula 2\Exercicio 4" />
+      <recent name="C:\Users\Toru\Desktop\APIII\Aula 2\Exercicio 3" />
+      <recent name="C:\Users\Toru\Desktop\APIII\Aula 2\Exercicio 2" />
+      <recent name="C:\Users\Toru\Desktop\APIII\Aula 2\Exercicio 1" />
+      <recent name="C:\Users\Toru\Desktop\APIII\Aula 4\Exercicio 5" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -150,6 +317,40 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.Program">
+    <configuration name="MDC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MDC" />
+      <module name="APIII" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program" />
+      <module name="APIII" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programa" />
+      <module name="APIII" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Program" />
+      <item itemvalue="Application.MDC" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.MDC" />
+        <item itemvalue="Application.Programa" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -161,10 +362,19 @@
       <option name="presentableId" value="Default" />
       <updated>1544378952373</updated>
     </task>
+    <task id="LOCAL-00001" summary="Reup do repositorio">
+      <created>1544390409822</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544390409822</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1034" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -174,11 +384,12 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32963374" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32963374" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32963374" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32963374" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -196,11 +407,33 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/APIII" />
+    </ignored-roots>
+    <MESSAGE value="Reup do repositorio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reup do repositorio" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Aula 1/Exercicio/MedidorTempo">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="170" selection-start-line="170" selection-end-line="170" />
+          <folding>
+            <element signature="e#2014#2015#0" expanded="true" />
+            <element signature="e#2050#2051#0" expanded="true" />
+            <element signature="e#3890#3891#0" expanded="true" />
+            <element signature="e#3932#3933#0" expanded="true" />
+            <element signature="e#3977#3978#0" expanded="true" />
+            <element signature="e#4023#4024#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Aula 2/Exercicio 1/List">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="150" column="5" selection-start-line="150" selection-start-column="5" selection-end-line="150" selection-end-column="5" />
+        <state relative-caret-position="210">
+          <caret line="140" column="20" selection-end-line="170" />
           <folding>
             <element signature="e#2014#2015#0" expanded="true" />
             <element signature="e#2050#2051#0" expanded="true" />
@@ -212,19 +445,258 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Aula-7/medicao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 4/Exercicio 5/ProgramTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 2/Exercicio 3/Element.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 2/Exercicio 3/Heap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 2/Exercicio 3/IHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 2/Exercicio 1/IHeap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 4/Exercicio 5/Programa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 4/Exercicio 5/Hanoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 4/Exercicio 4/MDC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 4/Exercicio 1/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 4/Exercicio 1/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 4/Exercicio 1/IStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 4/Exercicio 1/INode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Aula 2/Exercicio 1/Lista">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 2/Exercicio 1/Heap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 2/Exercicio 1/Element.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 2/Exercicio 1/IList.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 2/Exercicio 1/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 5/Exercicio 1/BubbleSortImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 5/Exercicio 2/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 5/Exercicio 2/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 5/Exercicio 2/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="53" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 4/Exercicio 1/ILinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 4/Exercicio 1/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 2/Exercicio 2/RingBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 2/Exercicio 2/IBuffer.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>APIII</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

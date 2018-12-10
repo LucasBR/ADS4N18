@@ -10,7 +10,7 @@ public class Program {
     }
 
     private static void runString() {
-        Comparable<String>[] list = new String[]{"Rodrigo Duarte", "Maria Joana", "Lucas Antonio", "Alexandre Silveira"};
+        Comparable<String>[] list = new String[]{"Lucas Ribeiro", "Felipe Santos", "Amanda Flores", "Ana Analuz"};
 
         String[] elements = (String[])list;
         System.out.println(String.join(",", elements));
@@ -25,7 +25,7 @@ public class Program {
     }
 
     private static void runInteger() {
-        Comparable<Integer>[] list = new Integer[]{8,5,12,55,3,7,82,44,35,25,41,29,17};
+        Comparable<Integer>[] list = new Integer[]{9,4,5,6,7,1,2,8,3,19,32,65,48,29,69};
 
         Integer[] elements = (Integer[])list;
         System.out.println(String.join(",", Arrays.toString(elements)));
